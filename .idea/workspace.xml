@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="JPetStore:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="707a9267-b08c-4b2f-bb1b-e59e9d7a3c47" name="Default Changelist" comment="Default Changelist" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="true" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1SCCnUIEi6JM4kQv9WvFLC4weaX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "full.screen.before.presentation.mode": "true",
+    "last_opened_file_path": "E:/大二上/WEB/JPetStore",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "configurable.group.appearance",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\86151\Desktop\SSD4\JPetStore\web\images" />
+      <recent name="E:\myPro\web\JPetStore\web\images" />
+      <recent name="E:\myPro\web\JPetStore\web\css" />
+      <recent name="E:\myPro\web\JPetStore\web" />
+      <recent name="E:\myPro\web\JPetStore\web\WEB-INF\jsp\common" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\myPro\web\JPetStore\web\js" />
+      <recent name="E:\myPro\web\JPetStore\web\js\plus" />
+      <recent name="E:\myPro\web\JPetStore\web\images\slide" />
+      <recent name="E:\myPro\web\JPetStore\web" />
+      <recent name="E:\myPro\web\JPetStore" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.csu.mypetstore.web.cart" />
+      <recent name="org.csu.mypetstore.web.order" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.65" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.65" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="BROWSER_ID" value="37cae5b9-e8b2-4949-9172-aafa37fbc09c" />
+      <option name="SHOW_DIALOG_ON_UPDATE" value="false" />
+      <deployment>
+        <artifact name="JPetStore:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+        <file path="$PROJECT_DIR$/web/images">
+          <settings>
+            <option name="CONTEXT_PATH" value="/images" />
+          </settings>
+        </file>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_JPetStore_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="62886" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="JPetStore:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\86151\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="707a9267-b08c-4b2f-bb1b-e59e9d7a3c47" name="Default Changelist" comment="" />
+      <created>1571058357160</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571058357160</updated>
+      <workItem from="1571058359523" duration="20871000" />
+      <workItem from="1571143291635" duration="8756000" />
+      <workItem from="1571162149277" duration="1819000" />
+      <workItem from="1571226754211" duration="18334000" />
+      <workItem from="1571249632591" duration="282000" />
+      <workItem from="1571250147284" duration="2005000" />
+      <workItem from="1571283825066" duration="6366000" />
+      <workItem from="1571474788570" duration="3958000" />
+      <workItem from="1571560539069" duration="4464000" />
+      <workItem from="1571618399068" duration="11359000" />
+      <workItem from="1571634135958" duration="15764000" />
+      <workItem from="1571667121135" duration="5747000" />
+      <workItem from="1571829929081" duration="9700000" />
+      <workItem from="1571897689196" duration="5390000" />
+      <workItem from="1571924864135" duration="956000" />
+      <workItem from="1571931448287" duration="7923000" />
+      <workItem from="1571990086456" duration="24465000" />
+      <workItem from="1572058928267" duration="21311000" />
+      <workItem from="1572083150238" duration="8339000" />
+      <workItem from="1572094723796" duration="10397000" />
+      <workItem from="1572139978183" duration="50837000" />
+      <workItem from="1572260490422" duration="12942000" />
+      <workItem from="1572281539418" duration="691000" />
+      <workItem from="1572282259249" duration="3080000" />
+      <workItem from="1572307708149" duration="3996000" />
+      <workItem from="1572311829362" duration="1271000" />
+      <workItem from="1572313162096" duration="17977000" />
+      <workItem from="1572365333214" duration="2851000" />
+      <workItem from="1572425605673" duration="2791000" />
+      <workItem from="1572428454116" duration="2113000" />
+      <workItem from="1572453279812" duration="664000" />
+      <workItem from="1572453974151" duration="9191000" />
+      <workItem from="1572486769225" duration="1522000" />
+      <workItem from="1572489330291" duration="2311000" />
+      <workItem from="1572491711269" duration="1400000" />
+      <workItem from="1573647183475" duration="4439000" />
+      <workItem from="1573883677429" duration="2297000" />
+      <workItem from="1574770578897" duration="5121000" />
+      <workItem from="1574814971126" duration="23884000" />
+      <workItem from="1575004876019" duration="47186000" />
+      <workItem from="1575108601931" duration="136000" />
+      <workItem from="1575108830094" duration="1031000" />
+      <workItem from="1575119807415" duration="1049000" />
+      <workItem from="1672059771411" duration="1277000" />
+      <workItem from="1672061297624" duration="330000" />
+      <workItem from="1672068881721" duration="2441000" />
+      <workItem from="1672071337222" duration="3706000" />
+      <workItem from="1672116225078" duration="2278000" />
+      <workItem from="1672122846850" duration="144000" />
+      <workItem from="1672123002555" duration="1337000" />
+      <workItem from="1672133281518" duration="427000" />
+      <workItem from="1672294025828" duration="1317000" />
+      <workItem from="1672302159065" duration="561000" />
+      <workItem from="1680268079266" duration="5321000" />
+      <workItem from="1703637887707" duration="684000" />
+      <workItem from="1703638634824" duration="22000" />
+      <workItem from="1704213642530" duration="6971000" />
+      <workItem from="1704473964489" duration="6955000" />
+    </task>
+    <task id="LOCAL-00001" summary="Default Changelist">
+      <created>1680269446450</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680269446450</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Default Changelist">
+      <created>1680269456516</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680269456516</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Default Changelist">
+      <created>1680270744214</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680270744214</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Default Changelist">
+      <created>1680273284003</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680273284003</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Default Changelist" />
+    <option name="LAST_COMMIT_MESSAGE" value="Default Changelist" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/csu/mypetstore/persistence/impl/OrderDAOImpl.java</url>
+          <line>251</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/csu/mypetstore/web/order/ViewOrderServlet.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/csu/mypetstore/web/order/ListOrdersServlet.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/csu/mypetstore/service/OrderService.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/csu/mypetstore/web/order/ViewOrderServlet.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" log-message="true" suspend="NONE" type="java-field">
+          <url>file://$PROJECT_DIR$/src/main/java/org/csu/mypetstore/web/order/ListOrdersServlet.java</url>
+          <line>19</line>
+          <properties field="LIST_ORDERS" class="org.csu.mypetstore.web.order.ListOrdersServlet" />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/csu/mypetstore/service/CartService.java</url>
+          <line>33</line>
+          <properties class="org.csu.mypetstore.service.CartService">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/csu/mypetstore/service/CartService.java</url>
+          <line>37</line>
+          <properties class="org.csu.mypetstore.service.CartService">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

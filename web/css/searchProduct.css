@@ -1,0 +1,46 @@
+div.wrap{
+    width: 750px;
+    margin: 20px 28% 0px auto;
+}
+.auto-inp{
+    width: 568px;
+    height: 30px;
+    padding-left: .5em;
+    border-radius: 2px;
+    border: 1px solid #dedede;
+    color: #666;
+    outline: none;
+    font-size: 16px;
+    text-align: left;
+}
+.auto{
+    width: 568px;
+    border: 1px solid #dedede;
+    border-top: none;
+    position: absolute;
+    font-size: 16px;
+    text-align: left;
+    z-index:500;
+}
+.auto_out{
+    width: 568px;
+    height: 30px;
+    line-height: 30px;
+    padding-left: .5em;
+    color: #000;
+    background: #fff;
+    overflow: hidden;
+    white-space: nowrap;
+    -o-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+    font-size: 16px;
+    text-align: left
+
+}
+.auto_out.on{
+    background: #eee;
+    cursor: pointer;
+}
+.hidden{
+    display: none;
+}
